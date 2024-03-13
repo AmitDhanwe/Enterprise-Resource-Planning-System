@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Enterprise-Resource-Planning-System/static/css/main.6ded1cf7.css",
+    "main.js": "/Enterprise-Resource-Planning-System/static/js/main.3c2c8bf3.js",
+    "static/js/453.5f23178e.chunk.js": "/Enterprise-Resource-Planning-System/static/js/453.5f23178e.chunk.js",
+    "static/media/html_table.jpg": "/Enterprise-Resource-Planning-System/static/media/html_table.ab9b0955bee4dc5f0025.jpg",
+    "index.html": "/Enterprise-Resource-Planning-System/index.html",
+    "main.6ded1cf7.css.map": "/Enterprise-Resource-Planning-System/static/css/main.6ded1cf7.css.map",
+    "main.3c2c8bf3.js.map": "/Enterprise-Resource-Planning-System/static/js/main.3c2c8bf3.js.map",
+    "453.5f23178e.chunk.js.map": "/Enterprise-Resource-Planning-System/static/js/453.5f23178e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ded1cf7.css",
+    "static/js/main.3c2c8bf3.js"
+  ]
+}
